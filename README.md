@@ -1,4 +1,4 @@
-# python_game
+# python_games_using_copilot
 This is my first attempt trying to create a game in Python using a tutorial I found online. 
 Link: https://www.youtube.com/watch?v=21FnnGKSRZo&t=2095s
 
